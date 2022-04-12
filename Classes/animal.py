@@ -3,7 +3,7 @@ class Animal():
 
 class Reptile(Animal):
     super().__init__()
-    
+
 class Snake(Reptile):
 
 sidney = Snake()

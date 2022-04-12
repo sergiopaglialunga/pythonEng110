@@ -1,0 +1,17 @@
+
+ Name: Sergio
+ Sentence: hello world
+ Score: 17
+ Name: John
+ Sentence: hello everyone
+ Score: 22
+ Name: Paul
+ Sentence: testing the program again
+ Score: 32
+ Name: Peter
+ Sentence: another test
+ Score: 14
+ Name: Sergio
+ Sentence: hello world
+ Score: 17
+
