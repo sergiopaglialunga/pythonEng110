@@ -1,10 +1,5 @@
 import csv
 
-# with open("user_details.csv", newline='') as csvfile:
-#     csvreader = csv.reader(csvfile, delimiter=",")
-#
-#     print(list(csvreader))
-
 def transform_user_details(csv_file_name):
     new_user_data = []
 
@@ -23,8 +18,3 @@ def transform_user_details(csv_file_name):
 print(transform_user_details("user_details.csv"))
 
 
-    # print(csvreader)
-    # iterable_csv = iter(csvreader)
-    # next(iterable_csv)
-    # for row in csvreader:
-    #     print(row)

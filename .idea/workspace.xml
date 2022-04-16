@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cf42c577-81c4-47ac-a0fe-cb41eeb291c7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/APIs/postcode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/requests_intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/requests_post.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/shapes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/test_pytest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json_intro/car_json_file.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json_intro/json_intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json_intro/new_car_json_file.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json_intro/rates.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json_intro/rates_parser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Filehandling/csv_example.py" beforeDir="false" afterPath="$PROJECT_DIR$/Filehandling/csv_example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Filehandling/new_csv.py" beforeDir="false" afterPath="$PROJECT_DIR$/Filehandling/new_csv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda/lambda_examples.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/lambda_examples.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda/orders.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/orders.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda/scrabble.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/scrabble.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda/scrable_dicc.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/scrable_dicc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda/simple_calc.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/simple_calc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda/test_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/test_calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda/test_scrable_dicc.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/test_scrable_dicc.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="27n2Fl1EQlI8LLmJRAOn70kLevQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf42c577-81c4-47ac-a0fe-cb41eeb291c7" name="Changes" comment="" />
+      <created>1649941431195</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649941431195</updated>
+    </task>
+    <servers />
+  </component>
+</project>

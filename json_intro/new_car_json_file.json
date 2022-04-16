@@ -1,0 +1,10 @@
+{
+  "make": "tesla",
+  "engine": "electric",
+  "faults": "lots",
+  "is_expensive": true,
+  "driver": {
+    "name": "Sergio",
+    "skills": "Basic"
+  }
+}
